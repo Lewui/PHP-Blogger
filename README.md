@@ -1,2 +1,2 @@
 # PHP-Blogger
-My first exploratrion in PHP, blog engine.
+My first experience with PHP, a blog engine.
